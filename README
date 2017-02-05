@@ -1,0 +1,11 @@
+This is a demonstration package for GNU Automake.
+Type 'info Automake' to read the Automake manual.
+
+├── configure.ac
+├── Makefile.am
+├── README
+└── src
+    ├── main.c
+    └── Makefile.am
+
+1 directory, 5 files
